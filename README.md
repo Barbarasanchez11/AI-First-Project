@@ -1,1 +1,3 @@
 # AI-First-Project
+
+Ejercicios
